@@ -1,0 +1,27 @@
+header h1{
+    text-align:center;
+    
+}
+main h2{
+    text-align: center;
+}
+
+nav a{
+     text-decoration: none;
+     color: black;
+     text-align:right;
+     padding: 15px;
+     float: right;
+}   
+
+nav{
+    background-color:beige;
+    overflow: hidden;
+}
+
+nav a:hover{
+    color:red;
+}   
+a:visited{
+   color:black;
+}       
